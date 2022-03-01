@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesGiesbrecht
 - 💻 NodeJS, React ⚛️, and TypeScript 💪 enthusiast with experience in React Native 📱 and .NET as well
-- 🌱 I’m currently learning how to build robust fullstack applications with NestJS 🪆 and deploy them on my selfhosted infrastructure with Jenkins 🎩 and Docker 🛳
+- 🌱 I’m currently learning how to build robust fullstack applications with NestJS 🪆, SEO optimized and small bundle size web-apps with NextJS 👨‍💻, and deploy them on my selfhosted infrastructure with Jenkins 🎩 and Docker 🛳
 - 📫 You can reach me at <giesbrechtjames@gmail.com> for any questions or oppurtunities
 
 <!---
