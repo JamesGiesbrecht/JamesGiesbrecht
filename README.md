@@ -1,7 +1,8 @@
-Hi, I’m @JamesGiesbrecht
+## Hi, I’m @JamesGiesbrecht
 
-👨🏻‍💻 Node, React fullstack developer.
-☁️ Homelab, docker, smarthome and life automation enthusiast.
+
+👨🏻‍💻 Node, React fullstack developer.  
+☁️ Homelab, docker, smarthome and life automation enthusiast.  
 📱 Aspiring iOS developer.
 
 <!---
