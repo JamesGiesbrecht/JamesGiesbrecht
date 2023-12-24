@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @JamesGiesbrecht
-- 💻 NodeJS, React ⚛️, and TypeScript 💪 enthusiast with experience in React Native 📱 and .NET as well
-- 🌱 I’m currently learning how to build robust fullstack applications with NestJS 🪆, SEO optimized and small bundle size web-apps with NextJS 👨‍💻, and deploy them on my selfhosted infrastructure with Jenkins 🎩 and Docker 🛳
-- 📫 You can reach me at <giesbrechtjames@gmail.com> for any questions or oppurtunities
+Hi, I’m @JamesGiesbrecht
+
+👨🏻‍💻 Node, React fullstack developer.
+☁️ Homelab, docker, smarthome and life automation enthusiast.
+📱 Aspiring iOS developer.
 
 <!---
 JamesGiesbrecht/JamesGiesbrecht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
